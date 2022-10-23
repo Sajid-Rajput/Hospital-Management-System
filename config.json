@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "db_host": "localhost",
+    "db_database": "hospital",
+    "db_user": "root",
+    "project_name": "The University of Lahore Teaching Hospital",
+    "local_server_uri":  "mysql://root:@localhost/hospital",
+    "secret_key": "DatabaseManagementSystem",
+    "login_logo": "login_logo.jpg",
+    "gmail_username": "techgokboru@gmail.com",
+    "gmail_password": "diqajrzxejpnjgfs"
+  }
+}
